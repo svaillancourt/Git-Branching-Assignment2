@@ -1,6 +1,18 @@
-<<<<<<< HEAD
-tHis is on a differnt new level
-=======
+BARE MINIMUM FOR A MERGE CONFLICT
+
+1. On the master branch make a change (add, commit)
+2. On a different branch, change the same file, and preferrably the same line (add, commit)
+3. checkout master, merge the other branch into master
+4. Use VS Code to resolve the merge conflict (don't forget to save)
+5. Add, and commit this last change 
+6. Push
+
+
+
+Get Rid Of Smelly girlz
+
+
+
                            o$o
                            $  "o        o$o
             o              $    "o     o" "o   o
@@ -46,4 +58,3 @@ $   $$  o"o  "o $ $          """ooo     "$
                         $       $          $
                          $o      $o      o"
           $$$$$$$$$$$$$$$$"$ooo$"" "ooo""$$$$$$$$$$$$$$$$$$$$$$$$$$"
->>>>>>> 2adef27717cae1f4c2f10b9005191e90dbb9dfc5
