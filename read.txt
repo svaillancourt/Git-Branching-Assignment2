@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 tHis is on a differnt new level
-=======
                            o$o
                            $  "o        o$o
             o              $    "o     o" "o   o
@@ -46,4 +44,3 @@ $   $$  o"o  "o $ $          """ooo     "$
                         $       $          $
                          $o      $o      o"
           $$$$$$$$$$$$$$$$"$ooo$"" "ooo""$$$$$$$$$$$$$$$$$$$$$$$$$$"
->>>>>>> 2adef27717cae1f4c2f10b9005191e90dbb9dfc5
